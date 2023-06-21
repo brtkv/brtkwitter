@@ -1,0 +1,26 @@
+.app-header {
+  align-items: flex-end;
+  justify-content: space-between;
+  
+
+}
+
+.app-header h1 {
+  color: #0bb8da;
+  text-transform: uppercase;
+  /* width: 150px;
+  height: 150px; */
+  font-size: 28px;
+  font-weight: bold;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.app-header h2 {
+  
+  font-size: 1.3rem;
+  color: #0bb8da;
+  font-weight: bold;
+  text-decoration: none;
+  text-transform: uppercase;
+}

@@ -1,0 +1,16 @@
+.app-list {
+    margin-top: 50px;
+}
+.app-list .list-group-item {
+  padding: 20px 25px 10px 35px;
+  margin-top: 10px;
+  background-color: #eef6f6;
+  border: none;
+  transition: background-color 0.1s;
+}
+
+.app-list .list-group-item:hover {
+  cursor: pointer;
+  background-color:#c4eded;
+  
+}
